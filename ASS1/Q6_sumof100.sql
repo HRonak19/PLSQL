@@ -3,7 +3,7 @@
 DECLARE
 
     N number := 100;
-    total number := 0;
+    total N%type := 0;
 
 BEGIN
 
